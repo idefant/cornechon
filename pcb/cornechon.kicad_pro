@@ -470,7 +470,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nijuni.kicad_pro",
+    "filename": "cornechon.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -568,7 +568,7 @@
       "plot": "./gerbers/",
       "pos_files": "",
       "specctra_dsn": "topor/rt-22.dsn",
-      "step": "nijuni.step",
+      "step": "cornechon.step",
       "svg": "",
       "vrml": ""
     },
@@ -703,7 +703,7 @@
   "sheets": [
     [
       "8a50fdbf-5eb1-4f58-981d-060e7424b472",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}

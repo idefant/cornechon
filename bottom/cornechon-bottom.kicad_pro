@@ -411,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nijuni-bottom.kicad_pro",
+    "filename": "cornechon-bottom.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -447,7 +447,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
